@@ -1,0 +1,72 @@
+[
+    { 
+        "id": 1, 
+        "year": "1790", 
+        "title": "Edmund Burke", 
+        "subtitle": "Reflexões sobre a Revolução na França", 
+        "description": "Considerado o marco fundador do conservadorismo moderno, Burke critica os excessos da Revolução Francesa e defende a importância das instituições, tradições e mudanças graduais.", 
+        "category": "Pensador", 
+        "context": "No auge do Iluminismo e da Revolução Francesa, Burke ofereceu uma crítica contundente ao racionalismo abstrato, argumentando que a sabedoria acumulada das gerações é um guia mais seguro para a política do que as teorias radicais.", 
+        "lifespan": "1729–1797" 
+    }, 
+    { 
+        "id": 2, 
+        "year": "1944", 
+        "title": "Friedrich Hayek", 
+        "subtitle": "O Caminho da Servidão", 
+        "description": "Hayek argumenta que o planejamento central da economia inevitavelmente leva à tirania, defendendo o liberalismo clássico, o livre mercado e o estado de direito como pilares da liberdade individual.", 
+        "category": "Pensador", 
+        "context": "Escrito durante a Segunda Guerra Mundial, o livro de Hayek foi um alerta contra o avanço do socialismo e do planejamento estatal, influenciando decisivamente o renascimento do pensamento liberal-conservador no pós-guerra.", 
+        "lifespan": "1899–1992" 
+    }, 
+    { 
+        "id": 3, 
+        "year": "1949", 
+        "title": "Russell Kirk", 
+        "subtitle": "A Mentalidade Conservadora", 
+        "description": "Kirk delineou os seis cânones do pensamento conservador, enfatizando a crença em uma ordem transcendente, a desconfiança em 'sofistas e calculistas' e a afeição pela variedade da existência humana.", 
+        "category": "Pensador", 
+        "context": "Num período de expansão do liberalismo progressista nos EUA, a obra de Kirk resgatou e sistematizou a tradição conservadora anglo-americana, dando-lhe uma base intelectual coesa e influente para as décadas seguintes.", 
+        "lifespan": "1918–1994" 
+    }, 
+    { 
+        "id": 4, 
+        "year": "1962", 
+        "title": "Michael Oakeshott", 
+        "subtitle": "Conservadorismo como Disposição", 
+        "description": "Oakeshott descreve o conservadorismo não como uma ideologia, mas como uma disposição para preferir o familiar ao desconhecido, o experimentado ao não tentado, e a valorizar o presente.", 
+        "category": "Pensador", 
+        "context": "Em meio à agitação política e social dos anos 60, Oakeshott propôs uma visão do conservadorismo como uma atitude cética em relação a grandes projetos de engenharia social, valorizando a prática e o conhecimento tácito em detrimento da teoria abstrata.", 
+        "lifespan": "1901–1990" 
+    }, 
+    { 
+        "id": 5, 
+        "year": "1980", 
+        "title": "Roger Scruton", 
+        "subtitle": "O Significado do Conservadorismo", 
+        "description": "Scruton revitalizou o conservadorismo filosófico, argumentando que a lealdade às tradições e à 'nação' é fundamental para a coesão social e a liberdade individual.", 
+        "category": "Pensador", 
+        "context": "Numa era dominada pelo Thatcherismo e pelo foco na economia, Scruton reorientou o debate conservador para a importância da cultura, da estética e dos laços comunitários como alicerces de uma sociedade livre.", 
+        "lifespan": "1944–2020" 
+    }, 
+    { 
+        "id": 6, 
+        "year": "1987", 
+        "title": "Thomas Sowell", 
+        "subtitle": "Conflito de Visões", 
+        "description": "Sowell, um dos mais influentes intelectuais libertários, analisa como visões opostas sobre a natureza humana (restrita vs. irrestrita) moldam o debate político, econômico e social.", 
+        "category": "Pensador", 
+        "context": "Durante a Guerra Fria tardia, Sowell ofereceu uma poderosa ferramenta analítica para entender as divergências ideológicas, argumentando que as nossas premissas sobre a natureza humana determinam as nossas conclusões políticas.", 
+        "lifespan": "n. 1930" 
+    }, 
+    { 
+        "id": 7, 
+        "year": "2013", 
+        "title": "Olavo de Carvalho", 
+        "subtitle": "O Mínimo que Você Precisa Saber...", 
+        "description": "Filósofo de enorme e controversa influência no Brasil, sua obra popularizou o debate sobre o conservadorismo e a crítica à hegemonia cultural para uma nova geração de leitores.", 
+        "category": "Pensador", 
+        "context": "Num período de hegemonia do pensamento de esquerda no Brasil, a coletânea de artigos de Olavo de Carvalho tornou-se um fenômeno editorial, catalisando o ressurgimento do movimento conservador no país e influenciando profundamente o debate público.", 
+        "lifespan": "1947–2022" 
+    } 
+]

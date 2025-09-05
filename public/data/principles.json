@@ -1,0 +1,156 @@
+[
+  {
+	"id": 1,
+	"title": "Ordem Moral",
+	"icon": "OrderIcon",
+	"tags": [
+	  "Lei Natural",
+	  "Valores Universais",
+	  "Ética Objetiva"
+	],
+	"description": "Existe uma 'bússola moral' universal sobre o certo e o errado que guia a sociedade e transcende as leis escritas.",
+	"analogy": "O 'código de honra' não escrito da sua família, baseado em honestidade e respeito.",
+	"myth": "\"Isso é só uma forma de impor a religião e valores ultrapassados a todos.\"",
+	"truth": "Não se trata de impor uma religião, mas de reconhecer que valores como coragem, justiça e honestidade são a base para qualquer sociedade funcionar."
+  },
+  {
+	"id": 2,
+	"title": "Tradição",
+	"icon": "TimelineIcon",
+	"tags": [
+	  "Instituições Históricas",
+	  "Costumes Locais",
+	  "Sabedoria Ancestral"
+	],
+	"description": "Valorizar a sabedoria acumulada por gerações. Costumes e instituições que duram têm um motivo: eles funcionam.",
+	"analogy": "A receita de bolo da sua avó. Você confia nela porque foi testada e aprovada por décadas.",
+	"myth": "\"É ser contra o progresso e querer viver no passado.\"",
+	"truth": "É o contrário. A tradição é a base sólida sobre a qual o verdadeiro progresso é construído."
+  },
+  {
+	"id": 3,
+	"title": "Prudência",
+	"icon": "PrudenceIcon",
+	"tags": [
+	  "Reformas Graduais",
+	  "Análise Cuidadosa",
+	  "Experiência Prática"
+	],
+	"description": "Agir com cautela ao propor grandes mudanças, pensando nas consequências para evitar reformas apressadas.",
+	"analogy": "A regra \"meça duas vezes, corte uma\". Antes de derrubar uma parede, você verifica se ela sustenta o teto.",
+	"myth": "\"É uma desculpa para não fazer nada e manter privilégios.\"",
+	"truth": "Prudência não é paralisia. É responsabilidade."
+  },
+  {
+	"id": 4,
+	"title": "Variedade",
+	"icon": "VarietyIcon",
+	"tags": [
+	  "Diversidade Natural",
+	  "Mérito Individual",
+	  "Hierarquias Orgânicas"
+	],
+	"description": "A sociedade é naturalmente diversa. Tentar forçar uma igualdade absoluta acaba com a riqueza da vida social.",
+	"analogy": "Um jardim saudável é cheio de plantas diferentes. A força está na sua variedade.",
+	"myth": "\"Vocês são contra a igualdade e defendem a desigualdade social.\"",
+	"truth": "Defende-se a igualdade perante a lei, não uma igualdade forçada de resultados."
+  },
+  {
+	"id": 5,
+	"title": "Natureza Imperfeita",
+	"icon": "ImperfectNatureIcon",
+	"tags": [
+	  "Realismo",
+	  "Ceticismo",
+	  "Limites Humanos"
+	],
+	"description": "Reconhecer que o ser humano não é perfeito. Projetos de \"paraíso na Terra\" são perigosos e fadados ao fracasso.",
+	"analogy": "Nenhuma família é perfeita. O objetivo não é ser ideal, mas ter regras e amor para lidar com os problemas.",
+	"myth": "\"É uma visão pessimista que impede de sonhar com um mundo melhor.\"",
+	"truth": "É uma visão realista que nos leva a criar sistemas que nos protegem de nossos piores impulsos."
+  },
+  {
+	"id": 6,
+	"title": "Liberdade e Propriedade",
+	"icon": "LibertyPropertyIcon",
+	"tags": [
+	  "Direitos de Propriedade",
+	  "Iniciativa Privada",
+	  "Independência"
+	],
+	"description": "A liberdade individual e a propriedade privada estão conectadas. Ter algo seu garante independência.",
+	"analogy": "A posse de sua casa ou de suas ferramentas de trabalho garante um domínio sobre a própria vida, independente do Estado ou de patrões.",
+	"myth": "\"É a defesa do egoísmo e da acumulação de riqueza para poucos.\"",
+	"truth": "A propriedade é a principal defesa do cidadão comum contra um Estado poderoso."
+  },
+  {
+	"id": 7,
+	"title": "Comunidade",
+	"icon": "CommunityIcon",
+	"tags": [
+	  "Governo Local",
+	  "Associações Voluntárias",
+	  "Descentralização"
+	],
+	"description": "Problemas devem ser resolvidos no nível mais local possível. Comunidades fortes são mais eficazes que um governo distante.",
+	"analogy": "Se um buraco abre na sua rua, o mais rápido é juntar os vizinhos para cobrar da prefeitura local.",
+	"myth": "\"Isso é ser contra o Estado e os programas sociais.\"",
+	"truth": "É ser a favor de um Estado que não sufoque a iniciativa da sociedade civil. Famílias e vizinhos resolvem problemas com mais agilidade."
+  },
+  {
+	"id": 8,
+	"title": "Limitação do Poder",
+	"icon": "LimitedPowerIcon",
+	"tags": [
+	  "Constituição",
+	  "Estado de Direito",
+	  "Freios e Contrapesos"
+	],
+	"description": "Desconfiar do poder concentrado. Um governo com poder demais é um perigo para a liberdade dos cidadãos.",
+	"analogy": "As regras de um jogo, que impedem um jogador de trapacear. A Constituição é a regra do jogo da democracia.",
+	"myth": "\"É querer um 'Estado mínimo' que não ajuda ninguém.\"",
+	"truth": "É querer um Estado forte em suas funções essenciais (segurança, justiça) e limitado em sua capacidade de interferir na vida das pessoas."
+  },
+  {
+	"id": 9,
+	"title": "Prescrição",
+	"icon": "PrescriptionIcon",
+	"tags": [
+	  "Legitimidade Histórica",
+	  "Direito Consuetudinário",
+	  "Herança"
+	],
+	"description": "Direitos e instituições que existem há muito tempo ganham legitimidade por terem sido testados e aprovados pela história.",
+	"analogy": "A praça antiga da sua cidade. Seu direito de existir é \"prescrito\" pelo tempo e pela sua importância para a comunidade.",
+	"myth": "\"É apenas uma forma de justificar práticas e leis antigas e opressoras.\"",
+	"truth": "Não se trata de aceitar tudo o que é antigo, mas de dar preferência ao que foi testado pelo tempo em vez de apostar em teorias abstratas."
+  },
+  {
+	"id": 10,
+	"title": "Equilíbrio",
+	"icon": "BalanceIcon",
+	"tags": [
+	  "Permanência e Mudança",
+	  "Moderação",
+	  "Reforma vs. Revolução"
+	],
+	"description": "Entender que uma sociedade saudável precisa equilibrar permanência e mudança. Mudanças devem ser graduais.",
+	"analogy": "Reformar uma casa histórica: você moderniza a fiação (mudança), mas preserva a arquitetura (permanência).",
+	"myth": "\"É ser 'em cima do muro'.\"",
+	"truth": "É ter a sabedoria de um reformador, não a fúria de um demolidor. A sociedade precisa de raízes fortes para poder crescer."
+  },
+  {
+	"id": 11,
+	"title": "Livre Mercado",
+	"icon": "FreeMarketIcon",
+	"tags": [
+	  "Capitalismo",
+	  "Competição",
+	  "Inovação"
+	],
+	"description": "A economia funciona melhor quando as trocas são voluntárias, com mínima interferência do governo, incentivando a competição e a inovação.",
+	"analogy": "A liberdade de escolher onde comprar seu pão, o que incentiva a padaria a oferecer o melhor produto pelo melhor preço.",
+	"myth": "\"É a lei do mais forte, que só beneficia os ricos e não se importa com os pobres.\"",
+	"truth": "O livre mercado é o sistema que mais gerou riqueza e tirou pessoas da pobreza na história. Ele recompensa a inovação e o serviço ao próximo, beneficiando a todos."
+  }
+]

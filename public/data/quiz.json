@@ -1,0 +1,72 @@
+[
+  {
+	"question": "Uma política que valoriza a sabedoria de gerações passadas ao invés de adotar reformas radicais e não testadas representa qual princípio?",
+	"answers": [
+	  { "text": "Livre Mercado", "isCorrect": false },
+	  { "text": "Tradição", "isCorrect": true },
+	  { "text": "Variedade", "isCorrect": false },
+	  { "text": "Comunidade", "isCorrect": false }
+	],
+	"explanation": "A Tradição é o princípio que valoriza a sabedoria acumulada, preferindo instituições e costumes que foram testados pelo tempo a inovações abruptas."
+  },
+  {
+	"question": "A crença de que mudanças sociais devem ser graduais e cuidadosas, evitando a disrupção abrupta da sociedade, é um exemplo de:",
+	"answers": [
+	  { "text": "Prudência", "isCorrect": true },
+	  { "text": "Ordem Moral", "isCorrect": false },
+	  { "text": "Liberdade e Propriedade", "isCorrect": false },
+	  { "text": "Natureza Imperfeita", "isCorrect": false }
+	],
+	"explanation": "A Prudência é a virtude de agir com cautela e considerar as consequências a longo prazo, sendo um pilar do conservadorismo contra reformas apressadas."
+  },
+  {
+	"question": "Quando se defende que a família e as associações locais são mais eficazes para resolver problemas sociais do que um governo centralizado, qual princípio está em jogo?",
+	"answers": [
+	  { "text": "Equilíbrio", "isCorrect": false },
+	  { "text": "Prescrição", "isCorrect": false },
+	  { "text": "Comunidade", "isCorrect": true },
+	  { "text": "Limitação do Poder", "isCorrect": false }
+	],
+	"explanation": "O princípio da Comunidade (ou subsidiariedade) defende que os problemas devem ser resolvidos pela menor e mais local autoridade capaz de o fazer eficazmente."
+  },
+  {
+	"question": "A desconfiança em projetos de engenharia social que prometem criar uma 'sociedade perfeita' baseia-se no princípio da:",
+	"answers": [
+	  { "text": "Natureza Imperfeita", "isCorrect": true },
+	  { "text": "Livre Mercado", "isCorrect": false },
+	  { "text": "Tradição", "isCorrect": false },
+	  { "text": "Variedade", "isCorrect": false }
+	],
+	"explanation": "O reconhecimento da Natureza Imperfeita do ser humano leva os conservadores a serem céticos em relação a utopias, pois entendem que a perfeição não é alcançável."
+  },
+  {
+	"question": "A defesa de que a Constituição deve restringir a ação do Estado para proteger os cidadãos é um exemplo claro de:",
+	"answers": [
+	  { "text": "Ordem Moral", "isCorrect": false },
+	  { "text": "Limitação do Poder", "isCorrect": true },
+	  { "text": "Prudência", "isCorrect": false },
+	  { "text": "Comunidade", "isCorrect": false }
+	],
+	"explanation": "A Limitação do Poder é fundamental para o conservadorismo, que vê a concentração de poder como uma ameaça à liberdade individual e à estabilidade social."
+  },
+  {
+	"question": "Quem é considerado o 'Pai do Conservadorismo Moderno'?",
+	"answers": [
+	  { "text": "John Locke", "isCorrect": false },
+	  { "text": "Edmund Burke", "isCorrect": true },
+	  { "text": "Adam Smith", "isCorrect": false },
+	  { "text": "David Hume", "isCorrect": false }
+	],
+	"explanation": "Edmund Burke é amplamente reconhecido como o fundador do conservadorismo moderno através de suas críticas à Revolução Francesa em 'Reflexões sobre a Revolução na França'."
+  },
+  {
+	"question": "Qual evento histórico é considerado o catalisador do conservadorismo moderno?",
+	"answers": [
+	  { "text": "Revolução Industrial", "isCorrect": false },
+	  { "text": "Revolução Americana", "isCorrect": false },
+	  { "text": "Revolução Francesa", "isCorrect": true },
+	  { "text": "Guerra Civil Inglesa", "isCorrect": false }
+	],
+	"explanation": "A Revolução Francesa e a sua abordagem radical de 'engenharia social' foram o principal catalisador que levou Edmund Burke a formular os princípios do conservadorismo moderno como uma resposta."
+  }
+]

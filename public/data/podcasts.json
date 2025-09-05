@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "🎙️ Narrativas de Controle: O Dogma Esquerdista em Foco",
+    "description": "Análise dos textos \"A Mente Esquerdista: Padrões de Pensamento e Comportamento\" de Rubens Mazzini e \"Derrotando a Retórica Esquerdista: Manual de Confronto e Verdade\" de Hector Marks.",
+    "coverImage": "/images/podcasts/cover_ep1.jpg",
+    "audioUrl": "/audio/podcast_ep1.mp3"
+  },
+  {
+    "id": 2,
+    "title": "EM BREVE.A Realidade segundo Thomas Sowell: Desmascarando Falácias Econômicas",
+    "description": "Uma introdução ao pensamento rigoroso de Thomas Sowell, explorando as suas críticas a políticas baseadas em boas intenções mas com resultados desastrosos. Foco em \"Conflito de Visões\".",
+    "coverImage": "/images/podcasts/cover_ep2.jpg",
+    "audioUrl": "/audio/podcast_ep2.mp3"
+  },
+  {
+    "id": 3,
+    "title": "EM BREVE.Roger Scruton e a Defesa do Lar",
+    "description": "Análise de como Sir Roger Scruton via o conservadorismo não como uma teoria econômica, mas como a preservação da cultura, da beleza e do sentimento de pertencimento que ele chamava de 'oikophilia' (amor ao lar).",
+    "coverImage": "/images/podcasts/cover_ep3.jpg",
+    "audioUrl": "/audio/podcast_ep3.mp3"
+  }
+]

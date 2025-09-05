@@ -1,0 +1,104 @@
+[
+  {
+	"id": 1,
+	"name": "Edmund Burke",
+	"lifespan": "1729–1797",
+	"quote": "A única coisa necessária para o triunfo do mal é que os homens de bem não façam nada.",
+	"summary": "Considerado o pai do conservadorismo moderno, Burke defendeu a importância da tradição, das instituições estabelecidas e da mudança gradual como uma resposta aos excessos da Revolução Francesa.",
+	"works": [
+	  { "title": "Reflexões sobre a Revolução na França", "year": 1790 },
+	  { "title": "Uma Investigação Filosófica sobre a Origem de Nossas Ideias do Sublime e do Belo", "year": 1757 }
+	]
+  },
+  {
+	"id": 2,
+	"name": "Russell Kirk",
+	"lifespan": "1918–1994",
+	"quote": "O conservador acredita que existe uma ordem moral duradoura.",
+	"summary": "Kirk foi fundamental para a revitalização do conservadorismo nos Estados Unidos no século XX. Ele sistematizou os princípios do pensamento conservador, enfatizando a ordem moral, a tradição e a prudência.",
+	"works": [
+	  { "title": "A Mentalidade Conservadora", "year": 1953 },
+	  { "title": "A Política da Prudência", "year": 1993 }
+	]
+  },
+  {
+	"id": 3,
+	"name": "Michael Oakeshott",
+	"lifespan": "1901–1990",
+	"quote": "Ser conservador é... preferir o familiar ao desconhecido, o experimentado ao não tentado.",
+	"summary": "Oakeshott descreveu o conservadorismo não como uma ideologia, mas como uma 'disposição'. A sua crítica ao 'racionalismo na política' alertou para os perigos de tentar redesenhar a sociedade com base em teorias abstratas.",
+	"works": [
+	  { "title": "Racionalismo na Política e Outros Ensaios", "year": 1962 },
+	  { "title": "Sobre a História e Outros Ensaios", "year": 1983 }
+	]
+  },
+  {
+	"id": 4,
+	"name": "Roger Scruton",
+	"lifespan": "1944–2020",
+	"quote": "O conservadorismo trata da preservação de uma ecologia social.",
+	"summary": "Um dos mais importantes filósofos conservadores contemporâneos, Scruton defendeu a importância da cultura, da estética e dos laços comunitários como fundamentos de uma sociedade livre e significativa.",
+	"works": [
+	  { "title": "Como ser um Conservador", "year": 2014 },
+	  { "title": "O Rosto de Deus", "year": 2012 },
+	  { "title": "O Significado do Conservadorismo", "year": 1980 }
+	]
+  },
+  {
+	"id": 5,
+	"name": "Friedrich Hayek",
+	"lifespan": "1899–1992",
+	"quote": "A curiosa tarefa da economia é demonstrar aos homens quão pouco eles realmente sabem sobre aquilo que imaginam que podem projetar.",
+	"summary": "Embora mais associado ao liberalismo clássico, Hayek é uma figura central para o liberal-conservadorismo. A sua obra 'O Caminho da Servidão' é uma poderosa crítica ao planeamento central e à concentração de poder estatal.",
+	"works": [
+	  { "title": "O Caminho da Servidão", "year": 1944 },
+	  { "title": "A Constituição da Liberdade", "year": 1960 }
+	]
+  },
+  {
+	"id": 6,
+	"name": "Thomas Sowell",
+	"lifespan": "n. 1930",
+	"quote": "Não há soluções, apenas concessões (trade-offs).",
+	"summary": "Sowell é conhecido pela sua análise económica rigorosa e pela sua crítica a políticas públicas baseadas em intenções e não em resultados. A sua obra enfatiza o realismo, a importância dos incentivos e a complexidade social.",
+	"works": [
+	  { "title": "Conflito de Visões", "year": 1987 },
+	  { "title": "Os Intelectuais e a Sociedade", "year": 2009 }
+	]
+  },
+  {
+	"id": 7,
+	"name": "Roberto Campos",
+	"lifespan": "1917–2001",
+	"quote": "O Brasil não corre o risco de dar certo.",
+	"summary": "Com uma ironia afiada, Roberto Campos foi um dos maiores defensores do liberalismo económico no Brasil. Ele combateu o nacionalismo, a burocracia e o estatismo, defendendo a abertura de mercado como caminho para a prosperidade.",
+	"works": [
+	  { "title": "A Lanterna na Popa", "year": 1994 },
+	  { "title": "O Século Esquisito", "year": 1991 }
+	]
+  },
+  {
+	"id": 8,
+	"name": "Olavo de Carvalho",
+	"lifespan": "1947–2022",
+	"quote": "A cultura é, no indivíduo, o resíduo de uma longa experiência de autotransformação consciente.",
+	"summary": "Filósofo de enorme e controversa influência no Brasil, sua obra popularizou o debate sobre o conservadorismo e a crítica à hegemonia cultural para uma nova geração de leitores.",
+	"works": [
+	  { "title": "O Mínimo que Você Precisa Saber para Não Ser um Idiota", "year": 2013 },
+	  { "title": "O Imbecil Coletivo", "year": 1996 },
+	  { "title": "O Jardim das Aflições", "year": 1995 }
+	]
+  },
+  {
+	"id": 9,
+	"name": "Jordan B. Peterson",
+	"lifespan": "n. 1962",
+	"quote": "Assuma que a pessoa com quem você está a conversar sabe algo que você não sabe.",
+	"summary": "Psicólogo clínico e intelectual público, Peterson tornou-se uma figura proeminente por sua defesa da responsabilidade individual, da liberdade de expressão e pela sua crítica a ideologias que ele considera destrutivas. Embora não se enquadre estritamente como um filósofo conservador, as suas ideias sobre ordem, caos e o valor das estruturas tradicionais encontraram grande ressonância em círculos conservadores e liberais clássicos.",
+	"works": [
+	  { "title": "12 Regras para a Vida: Um Antídoto para o Caos", "year": 2018 },
+	  { "title": "Mapas do Significado: A Arquitetura da Crença", "year": 1999 },
+	  { "title": "Para Além da Ordem: Mais 12 Regras para a Vida", "year": 2021 }
+	]
+  }
+]
